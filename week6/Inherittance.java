@@ -1,3 +1,4 @@
+\\632115037 Wathanyu
 package week6;
 
 public class Inherittance {
