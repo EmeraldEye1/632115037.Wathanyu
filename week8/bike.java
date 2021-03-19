@@ -1,7 +1,7 @@
 package week8;
 public class bike extends biker{
 
-    public bike(int Speed){
+    public bike(double Speed){
         Speeder(Speed);
         System.out.println("Common Bike");
         if(checkingSpeed(Speed1())){

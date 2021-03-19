@@ -1,6 +1,6 @@
 package week8;
     public class mountainbike extends biker{
-        public mountainbike(int Speed){
+        public mountainbike(double Speed){
             Speeder(Speed);
             System.out.println("MountainBike");
             if(checkingSpeed(Speed1())){
